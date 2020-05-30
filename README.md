@@ -1,2 +1,1 @@
-# SprinkleFidelity
 SpriFi
